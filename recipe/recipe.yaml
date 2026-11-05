@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: opentelemetry-configuration
-  version: "0.66b1"
+  version: "0.66b2"
   sdk_version: "1.45.1"
 
 package:
@@ -11,7 +11,7 @@ package:
 
 source:
   - url: https://files.pythonhosted.org/packages/source/o/opentelemetry-configuration/opentelemetry_configuration-${{ version }}.tar.gz
-    sha256: ccc169457447c6910464591b9820b750896111b9d05ee8c2c4f7757173697b2b
+    sha256: 2427a005b9cf0d2dc77cf26cbeef11ae549fecb3089818b702e6e71f27a9091b
 
 build:
   number: 0
