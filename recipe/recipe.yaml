@@ -3,7 +3,7 @@ schema_version: 1
 context:
   name: opentelemetry-configuration
   version: "0.66b2"
-  sdk_version: "1.45.1"
+  sdk_version: "1.45.2"
 
 package:
   name: ${{ name }}
